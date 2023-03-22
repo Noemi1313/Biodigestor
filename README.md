@@ -6,4 +6,4 @@ Include a gas sensor MQ-2, a temperature sensor called lm35, an ultrasonic, some
 
 ![image](https://user-images.githubusercontent.com/51099544/226973473-e2a2cc70-28b8-4040-9b7a-50d3f225c714.png)
 
-![image](C:\Users\carol\OneDrive\Imágenes\biodigestor.png)
+![image](https://user-images.githubusercontent.com/51099544/226979837-761c8cb5-dbfe-4fe7-9b50-8a50c232434c.png)
